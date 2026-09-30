@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Pharma-Chain: Tracks pharmaceutical batches on-chain with role-based access control.">
+<defs><style>
+.t{font-family:Georgia,'Times New Roman',serif;font-weight:700;font-size:31px;fill:#EDE9FE;}
+.d{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:17px;fill:#D8CCFF;}
+.tag{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;fill:#EDE9FE;}
+</style>
+<linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2E1463"/><stop offset="1" stop-color="#1B0A36"/></linearGradient></defs>
+<rect x="1" y="1" width="398" height="258" rx="26" fill="url(#cg)" stroke="#8B5CF6" stroke-opacity=".6" stroke-width="2"/>
+<g transform="translate(300 16) scale(.95)"><g fill="none" stroke-width="6"><path d="M22 20 l14 -8 l14 8 v16 l-14 8 l-14 -8Z" stroke="#C4B5FD"/><path d="M38 44 l14 -8 l14 8 v16 l-14 8 l-14 -8Z" stroke="#93A8FF"/></g></g>
+<text class="t" x="24" y="72">Pharma-Chain</text>
+<text class="d" x="24" y="112">Tracks pharmaceutical batches on-</text><text class="d" x="24" y="138">chain with role-based access</text><text class="d" x="24" y="164">control.</text>
+<rect x="24" y="206" width="92" height="30" rx="15" fill="#7C3AED" fill-opacity=".28" stroke="#C4B5FD" stroke-opacity=".5"/><text class="tag" x="70" y="226" text-anchor="middle">Solidity</text><rect x="124" y="206" width="124" height="30" rx="15" fill="#7C3AED" fill-opacity=".28" stroke="#C4B5FD" stroke-opacity=".5"/><text class="tag" x="186" y="226" text-anchor="middle">OpenZeppelin</text><rect x="256" y="206" width="67" height="30" rx="15" fill="#7C3AED" fill-opacity=".28" stroke="#C4B5FD" stroke-opacity=".5"/><text class="tag" x="290" y="226" text-anchor="middle">Tests</text>
+</svg>
