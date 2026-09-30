@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Awards with Mosaan Health: 1st Prize Global Health Innovation Forum 2026, 1st Runner-Up Health Innovation Festival Ghana 2026, 1st Prize AIMS Senegal Hackathon 2025, Finalist Galien Africa Young Innovators Boost 2025">
+<defs><style>
+.a{font-family:Georgia,'Times New Roman',serif;font-weight:700;font-size:24px;fill:#EDE9FE;}
+.b{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:15px;fill:#D8CCFF;}
+.c{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;fill:#A78BFA;}
+</style><linearGradient id="ag" x1="0" x2="1"><stop offset="0" stop-color="#1B0A36"/><stop offset="1" stop-color="#2E1463"/></linearGradient></defs>
+<rect width="1200" height="200" rx="26" fill="url(#ag)"/><g><circle cx="150" cy="62" r="34" fill="#7C3AED" fill-opacity=".25" stroke="#C4B5FD" stroke-width="2"/>
+<path transform="translate(150 62)" d="M0 -16 L4.7 -6.5 L15.2 -5 L7.6 2.4 L9.4 12.9 L0 8 L-9.4 12.9 L-7.6 2.4 L-15.2 -5 L-4.7 -6.5Z" fill="#EDE9FE"/>
+<text class="a" x="150" y="128" text-anchor="middle">1st Prize</text><text class="b" x="150" y="152" text-anchor="middle">Global Health Innovation Forum</text><text class="c" x="150" y="172" text-anchor="middle">2026 · 100+ ventures</text></g><g><circle cx="450" cy="62" r="34" fill="#7C3AED" fill-opacity=".25" stroke="#C4B5FD" stroke-width="2"/>
+<path transform="translate(450 62)" d="M0 -16 L4.7 -6.5 L15.2 -5 L7.6 2.4 L9.4 12.9 L0 8 L-9.4 12.9 L-7.6 2.4 L-15.2 -5 L-4.7 -6.5Z" fill="#93A8FF"/>
+<text class="a" x="450" y="128" text-anchor="middle">1st Runner-Up</text><text class="b" x="450" y="152" text-anchor="middle">Health Innovation Festival Ghana</text><text class="c" x="450" y="172" text-anchor="middle">2026</text></g><g><circle cx="750" cy="62" r="34" fill="#7C3AED" fill-opacity=".25" stroke="#C4B5FD" stroke-width="2"/>
+<path transform="translate(750 62)" d="M0 -16 L4.7 -6.5 L15.2 -5 L7.6 2.4 L9.4 12.9 L0 8 L-9.4 12.9 L-7.6 2.4 L-15.2 -5 L-4.7 -6.5Z" fill="#EDE9FE"/>
+<text class="a" x="750" y="128" text-anchor="middle">1st Prize</text><text class="b" x="750" y="152" text-anchor="middle">AIMS Senegal Hackathon</text><text class="c" x="750" y="172" text-anchor="middle">2025</text></g><g><circle cx="1050" cy="62" r="34" fill="#7C3AED" fill-opacity=".25" stroke="#C4B5FD" stroke-width="2"/>
+<path transform="translate(1050 62)" d="M0 -16 L4.7 -6.5 L15.2 -5 L7.6 2.4 L9.4 12.9 L0 8 L-9.4 12.9 L-7.6 2.4 L-15.2 -5 L-4.7 -6.5Z" fill="#EDE9FE"/>
+<text class="a" x="1050" y="128" text-anchor="middle">Finalist</text><text class="b" x="1050" y="152" text-anchor="middle">Galien Africa Young Innovators</text><text class="c" x="1050" y="172" text-anchor="middle">2025</text></g></svg>
